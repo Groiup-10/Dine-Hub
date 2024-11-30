@@ -1,2 +1,2 @@
-# MediCare_Group10
+# DineHub_Group10
 Group assignment by Group 10
