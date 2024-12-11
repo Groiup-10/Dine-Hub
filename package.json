@@ -1,0 +1,27 @@
+{
+  "name": "dine-hub",
+  "version": "1.0.0",
+  "description": "The Dine Hub is a comprehensive web application designed to streamline restaurant operations, enhance efficiency, and improve the overall customer experience.\r By integrating order management, table reservations, and inventory tracking, this solution empowers restaurant owners and \r staff to optimize workflows, reduce wait times, and ensure seamless coordination between front-of-house and back-of-house operations.\r The system’s intuitive interface will allow staff to manage tasks effortlessly and provide customers with a better dining experience.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Groiup-10/Dine-Hub.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Groiup-10/Dine-Hub/issues"
+  },
+  "homepage": "https://github.com/Groiup-10/Dine-Hub#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-async-handler": "^1.2.0",
+    "mongoose": "^8.8.4",
+    "nodemon": "^3.1.7"
+  }
+}
