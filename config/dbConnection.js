@@ -2,7 +2,7 @@ const mongoose = require('mongoose');
 
 const connectDb = async () => {
     try {
-        const connect = await mongoose.connect(process_params.env.CONNECTIONS); // remeber to insert the connection string
+        const connect = await mongoose.connect(process.env.CONNECTIONS_STRING); // remeber to insert the connection string
         console.log('Database connected....',
             connect.connection.host,
             connect.connection.port,
@@ -14,4 +14,4 @@ const connectDb = async () => {
 
 };
 
-Module.exports = connectDb;
+module.exports = connectDb;
