@@ -20,7 +20,7 @@ section {
 }
 
 .section-a {
-    background-image: url('../img/finefood2.jpg');
+    background-image: url('./img/finefood2.jpg');
 }
 
 .section-inner {

@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":" FOOD ITEM 1",
+        "price": 20,
+        "image": "images/rb_1377.png"
+    },
+    {
+        "id": 2,
+        "name":" FOOD ITEM 2",
+        "price": 25,
+        "image": "images/rb_24976.png"
+    },
+    {
+        "id": 3,
+        "name":" FOOD ITEM 3",
+        "price": 29,
+        "image": "images/rb_26601.png"
+    },
+    {
+        "id": 4,
+        "name":" FOOD ITEM 4",
+        "price": 20,
+        "image": "images/rb_31789.png"
+    },
+    {
+        "id": 5,
+        "name":" FOOD ITEM 5",
+        "price": 30,
+        "image": "images/rb_32101.png"
+    },
+    {
+        "id": 6,
+        "name":" FOOD ITEM 6",
+        "price": 20,
+        "image": "images/rb_32509.png"
+    },
+    {
+        "id": 7,
+        "name":" FOOD ITEM 7",
+        "price": 20,
+        "image": "images/rb_2151604199.png"
+    },
+    {
+        "id": 8,
+        "name":" FOOD ITEM 8",
+        "price": 20,
+        "image": "images/rb_32509.png"
+    }
+
+]

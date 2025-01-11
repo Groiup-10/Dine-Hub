@@ -15,6 +15,8 @@ const port = process.env.PORT || 5000;
 // middleware
 app.use(express.json()); // to display json format
 app.use("/api/orders", require("./routes/adminRoute"));
+app.use("/api/users", require("./routes/userRoute")); // user routes
+
 app.use(errorHandler);
 
 app.listen(port, () => {

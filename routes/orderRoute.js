@@ -7,6 +7,7 @@ const {
     deleteOrder,
     getOrder
 } = require ('../controllers/adminController');
+const validateToken = require("../middleware/validationHandler");
 
 router.route("/").get(getOrders).post(createOrder);
 

@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/Groiup-10/Dine-Hub#readme",
   "dependencies": {
+    "bcrypt": "^5.1.1",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
     "express-async-handler": "^1.2.0",
